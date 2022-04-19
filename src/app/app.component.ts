@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
     posts = [
         {
-            title: "Neat tree"
+            title: "Neat Tree"
             , imageUrl: "assets/tree.jpeg"
             , username: "nature"
             , content: "I saw this awesome tree during my hike today."
